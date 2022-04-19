@@ -84,7 +84,7 @@ header a:hover{
 /* Showcase */
 #showcase{
     min-height: 500px;
-    background: url('../odi/images/food1.jpg') no-repeat -50px -400px;
+    background: url('images/food1.jpg') no-repeat -50px -400px;
     text-align: center;
     color:#35424a;
     font-size: 30px;
